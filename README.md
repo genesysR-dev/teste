@@ -23,7 +23,7 @@ git clone <URL_DO_NOSSO_REPOSITORIO>
 cd aula-git-turma-58
 ```
 
-###2. Criar uma nova branch
+### 2. Criar uma nova branch
 Nunca faça alterações diretamente na branch principal! Crie uma branch com o seu nome:
 
 ```bash
@@ -52,17 +52,17 @@ Salve o arquivo (Ctrl + S ou Cmd + S).
 No terminal, digite os seguintes comandos:
 
 
-# 1. Prepara os arquivos alterados
+#### 1. Prepara os arquivos alterados
 ```bash
 git add index.html
 ```
 
-# 2. Registra o que foi feito
+#### 2. Registra o que foi feito
 ```
 git commit -m "feat: adiciona card de [Seu Nome]"
 ```
 
-# 3. Envia a sua branch para o GitHub
+#### 3. Envia a sua branch para o GitHub
 ``` git push origin minha-branch-seu-nome ```
 
 ### 5. Abrir o Pull Request (PR)
@@ -74,7 +74,7 @@ git commit -m "feat: adiciona card de [Seu Nome]"
 
 - Aguarde a validação e o aceite da professora! 🎉
 
-🎓 Tecnologias Utilizadas
+# 🎓 Tecnologias Utilizadas
 - HTML5
 
 - CSS3
